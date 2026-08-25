@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Gustavo Bernardes dos Santos
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 25/06/2026
+Objetivo    : Ler dois valores inteiros e mostrar a soma.
+Dificuldade : Fazer a função para validar a matriz
+Uso de IA   : ajuda para colocar comentarios no código
+-------------------------------------------------------------------------- */
 #include <stdio.h> 
 
 int x[9][9]; 
