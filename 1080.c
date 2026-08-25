@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Gustavo Bernardes dos Santos
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Data        : 25/06/2026
+Objetivo    : Escrever maior valor de um vetor e posição.
+Dificuldade : Resolver de forma recursiva
+Uso de IA   : ajuda para colocar comentarios no código
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 /* Retorna o maior valor entre os n primeiros elementos */
