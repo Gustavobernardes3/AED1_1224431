@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritmo e Estrutura de Dados 2026S1
+Nome        : Gustavo Bernardes dos Santos
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1062
+Data        : 14/10/2026
+Objetivo    : Fazer uma pilha para ordenar vagões
+Dificuldade : Média (função main mais complexa)
+Uso de IA   : Disse para a IA inserir comentários no código e ajuda na função main (principalmente nos "while(1)").
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
